@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "copycats:copycat_vertical_slope"
+    },
+    "result": "create:zinc_ingot",
+    "experience": 0.1,
+    "cookingtime": 200
+}
