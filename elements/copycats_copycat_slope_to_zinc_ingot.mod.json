@@ -1,0 +1,33 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.1,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "copycats:copycat_slope"
+      },
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "recipeReturnStack": {
+      "value": "create:zinc_ingot"
+    },
+    "name": "copycats_copycat_slope_to_zinc_ingot",
+    "namespace": "create_copycat_recycling"
+  }
+}

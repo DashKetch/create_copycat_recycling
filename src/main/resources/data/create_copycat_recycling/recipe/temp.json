@@ -6,11 +6,11 @@
   ],
   "key": {
     "a": {
-      "item": "minecraft:oak_button"
+      "item": "minecraft:polished_tuff"
     }
   },
   "result": {
-    "id": "minecraft:oak_planks",
+    "id": "minecraft:ancient_debris",
     "count": 1
   }
 }
